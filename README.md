@@ -1,4 +1,4 @@
-# vuetify-study
+# vuetify-ui-sample
 
 ## Project setup
 ```
